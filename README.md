@@ -16,3 +16,10 @@ The cost of a mis-classification can be very high.
 You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
 No strict latency concerns.
 Interpretability is partially important.
+
+Performance Metric
+
+log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
+Binary Confusion Matrix
+
+NB: This project was done as a part of assignment for machine Learning course taken at appliedaicourse.com/
